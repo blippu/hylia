@@ -18,9 +18,9 @@ How about a `<blockquote>`?
 
 A list of stuff:
 
-- Sed posuere consectetur est at lobortis
-- Aenean lacinia bibendum nulla sed consectetur
-- Sed posuere consectetur est at lobortis
+* Sed posuere consectetur est at lobortis
+* Aenean lacinia bibendum nulla sed consectetur
+* Sed posuere consectetur est at lobortis
 
 How about an ordered list of stuff:
 
@@ -28,5 +28,6 @@ How about an ordered list of stuff:
 2. Aenean lacinia bibendum nulla sed consectetur
 3. Sed posuere consectetur est at lobortis
 
-
 Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+
+<script type="text/javascript" src="//www.auctionnudge.com/feed/item/js/theme/columns/page/init/img_size/120/search_box/1/blank/1/lang/english/categoryId/3213/SellerID/ricore_eu/siteid/3/MaxEntries/6"></script><div id="auction-nudge-items" class="auction-nudge"></div>
